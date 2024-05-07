@@ -20,7 +20,11 @@ export default function App() {
   }
 
   function handleClearItem() {
-    setItems([]);
+    const confirmed = window.confirm(
+      "Are you sure You want to delete all items"
+    );
+
+    if (confirmed) setItems([]);
   }
   return (
     <div className="app">

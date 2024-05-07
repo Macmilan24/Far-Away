@@ -35,6 +35,6 @@ Contributions to Far Away are welcome! If you have any suggestions, bug reports,
 
 ## OverView
 
-<img src="public/img/Screenshot.png" width="200px" height="200px">
+<img src="public/img/Screenshot.png" width="100%" height="400px">
 
 Happy packing! ✈️🌴

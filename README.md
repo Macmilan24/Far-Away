@@ -1,4 +1,4 @@
-# Far Away 💼
+# 🌴 Far Away 💼
 
 Far Away is a simple web application designed to help users create packing lists for their trips. Users can add items they need to pack, mark them as packed, and track their progress with a handy stats footer.
 
